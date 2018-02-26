@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\26ed84e7606973c377b3cef7cbf3d747c26a8924\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_059cfeeea7046182ba6208531ac8a1ea6be61429.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\19e855e7950c5fa1d6f8519326a6579f3720183c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d0d6248410ca25bca987af98902e6923dea0ecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\8f14d423859d6115dc05c403ee9b860cd356b4e3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_652646469a3b6d44def44161be567c8d69213d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3128201a6e602beaafcc1aa70a474ffc8b32ecae\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\c19c3484dc14d5f768ff71fbbcb6d5c9d888302d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_cfb64240384f8c746066334ee115ec79674f0bf7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c93825063325f926c0e761b84effbfe3272bfc">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0324109d91bd98a137bc991a6c3d7c4ad14d156f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\fa1ada9da4e8ff8f9b83e03dbe9021b5a87c921a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_271bf143ddde798d6cea9732cb20d123dc50bd34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\0e32dbe8c23479405a34ce6cab6887f05b7ebd50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_e7ac26528cfcea274b79d6f4dec1bcf42c417993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\0212889a15e8a3f581dfc61568cc48dc3504864b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d705ea22a7ccc5285fd3f968f3c6b4a1e486b181\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\8952d5e4328c531252b1f5f1b8b78c1649ab4349\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acadb55fa2a2b7b84fa21bb696d0235c0b140224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\5ec088cef26f00fa1354b3974df275d27b99195f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc07c6295644ba8f3bf17a47732d946a00802201\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\bbb8f35352fba3a0275ce309b764993708f026f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_904c60220b03d92b4e57461019963deecabe63a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\fe0023c8b7b8e784aa5f4103d80990a15fe203e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd13d66b97592201d1ba486a9cdda4a7b9286f0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\1b40b44a3845b7247a8a3531a07e4b61dbdf5390\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_403d18a784ba97d624609e813f65a10510989fef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\0f181c7a226933cf34d5f86f1ae15751f0763d0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1e6f40446ab0949c3112917ec00d3f6bace6b1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\a7cc0b6172307bea8c090c1ab7be166c955014c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_a934ad955f5c9f82a5825e2d31a1d92a6c954665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_16a44cc82e2c866004c9087acc3ac9dee7f7e3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\727da4c0bfc6b622c2f070074791e2b34c923f9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_049d4b593c666f8dc4599a9f79a66a1684e6d106.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\btdar\.android\build-cache\9495686a45d5fdcfd9ccb138d63b98bfc2aa1931\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d4619127b7d3812ad837017e29fe4c7019d2d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\36762a55632105c37b798f8e1de1072613027645\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_5a94cf6e20a0ea74fd7007f71f9e27e5c2fa383f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\7425422515e85458f4079dc374982d622641b8d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_7ef6058d2b4beacb708ed9cf541d6f67ac3306c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\btdar\.android\build-cache\d33a1dbd71aca08980ffa0cf56ddbd8098018968\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\btdar\AndroidStudioProjects\SeniorDesign\app\build\intermediates\pre-dexed\debug\classes_f1bc9b356310bdee7bf13d416ca0a893153c190c.jar" />
+    </item>
+
+</items>
