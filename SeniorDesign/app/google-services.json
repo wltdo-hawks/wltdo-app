@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "101906850818",
+    "firebase_url": "https://wholetthedogout-e584b.firebaseio.com",
+    "project_id": "wholetthedogout-e584b",
+    "storage_bucket": "wholetthedogout-e584b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101906850818:android:bc4a8cb2c1b631ab",
+        "android_client_info": {
+          "package_name": "com.btdarcy.seniordesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101906850818-u1lmgo3c8ns99npd570lf6nrrp23go08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.btdarcy.seniordesign",
+            "certificate_hash": "e54970d68e03f63b91ba4389225db3f1dd0b9bc0"
+          }
+        },
+        {
+          "client_id": "101906850818-0tge8kdjuvrunt10cfkjips4ks8ho9k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF-5lNF5S2N9E4rnvtGaIjI2P0jXGG1LE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101906850818-0tge8kdjuvrunt10cfkjips4ks8ho9k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
