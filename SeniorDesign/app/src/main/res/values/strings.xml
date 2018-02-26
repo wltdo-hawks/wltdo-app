@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Who Let the Dogs Out</string>
+    <string name="my_first_app">My First Application</string>
+    <string name="click_me">Click Me</string>
+    <string name="locked">Locked</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_login_information">Enter your login information</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="logs">Logs</string>
+    <string name="back">Back</string>
+    <string name="battery_life">Battery Life</string>
+    <string name="timed_lock">Timed Lock</string>
+    <string name="set_start_time">Set Start Time</string>
+    <string name="set_end_time">Set End Time</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="set_nighttime_mode">Set Nighttime Mode</string>
+</resources>

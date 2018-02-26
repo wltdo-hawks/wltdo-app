@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_start_time"
+        android:textColor="@android:color/black" />
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:timePickerMode="spinner"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_end_time"
+        android:textColor="@android:color/black" />
+
+    <TimePicker
+        android:id="@+id/timePicker2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:timePickerMode="spinner" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/dialog_close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/close"
+        android:textStyle="bold" />
+</LinearLayout>
